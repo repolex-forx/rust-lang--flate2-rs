@@ -315,8 +315,9 @@
     {
       "@id": "https://repolex.ai/r/rust-lang/flate2-rs/commit/93c81772305a102f1ec846bd12713dd7bf1e3f04",
       "git:hexsha": "93c81772305a102f1ec846bd12713dd7bf1e3f04",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v1.0.31"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.0.31",
+      "repolex:parsedAt": "2026-09-07T14:00:17.893148+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rust-lang/flate2-rs/commit/367ec7476817925ef3215196826828e814b035be",
