@@ -180,7 +180,12 @@
           "githubUrl": "https://github.com/BurntSushi/quickcheck",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "ast": [
+        "aggregate/ast/19ddb18bf11199858fbc6504d079448fafd1606e/chunk-001.nq.gz"
+      ],
+      "repolex": "aggregate/repolex/19ddb18bf11199858fbc6504d079448fafd1606e/chunk-001.nq.gz",
+      "dep": "dep/19ddb18bf11199858fbc6504d079448fafd1606e.nq.gz"
     },
     {
       "commit": "93c81772305a102f1ec846bd12713dd7bf1e3f04",
