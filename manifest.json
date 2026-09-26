@@ -77,6 +77,109 @@
         "blob/572e03bdf321b6cc3a99488183436905cefd086d.nq.gz",
         "blob/cabc89630fe00d6a611e16fdad958ecfd479cd8d.nq.gz",
         "blob/3a4ef731c59936799a7e14343040c8c6fe210c18.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/19ddb18bf11199858fbc6504d079448fafd1606e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "libz-sys",
+          "ecosystem": "CARGO",
+          "version": "1.1.20",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libz-sys",
+          "githubCommit": "38087fcfacc76d85f7360db549438ff490b3efe5",
+          "githubTag": "1.1.20",
+          "githubUrl": "https://github.com/rust-lang/libz-sys",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "libz-ng-sys",
+          "ecosystem": "CARGO",
+          "version": "1.1.16",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libz-sys",
+          "githubCommit": "bbcc79650222ea75d335638ac6896f13000eef54",
+          "githubTag": "1.1.16",
+          "githubUrl": "https://github.com/rust-lang/libz-sys",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "zlib-rs",
+          "ecosystem": "CARGO",
+          "version": "0.6.0",
+          "githubOrg": "trifectatechfoundation",
+          "githubRepo": "zlib-rs",
+          "githubCommit": "14e15a257f022c18e505fe5ea830139da47dac9d",
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/trifectatechfoundation/zlib-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cloudflare-zlib-sys",
+          "ecosystem": "CARGO",
+          "version": "0.3.6",
+          "githubOrg": "cloudflare",
+          "githubRepo": "zlib",
+          "githubUrl": "https://github.com/cloudflare/zlib",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "miniz_oxide",
+          "ecosystem": "CARGO",
+          "version": "0.8.5",
+          "githubOrg": "Frommi",
+          "githubRepo": "miniz_oxide",
+          "githubCommit": "341edf5d7985e00d05512d221c84049129628718",
+          "githubTag": "0.8.5",
+          "githubUrl": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "crc32fast",
+          "ecosystem": "CARGO",
+          "version": "1.2.0",
+          "githubOrg": "srijs",
+          "githubRepo": "rust-crc32fast",
+          "githubCommit": "6cc30a5a4643f6a5b1b3339d8a8c23f7dd902fc2",
+          "githubTag": "v1.2.0",
+          "githubUrl": "https://github.com/srijs/rust-crc32fast",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "document-features",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "slint-ui",
+          "githubRepo": "document-features",
+          "githubUrl": "https://github.com/slint-ui/document-features",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.9",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     },
     {
