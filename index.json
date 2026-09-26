@@ -1,5 +1,16 @@
 {
   "org": "rust-lang",
   "repo": "flate2-rs",
-  "versions": []
+  "versions": [
+    {
+      "commit": "19ddb18bf11199858fbc6504d079448fafd1606e",
+      "tag": "1.1.9",
+      "parsed_at": "2026-09-26T19:11:28.245055+00:00"
+    },
+    {
+      "commit": "93c81772305a102f1ec846bd12713dd7bf1e3f04",
+      "tag": "v1.0.31",
+      "parsed_at": "2026-09-07T14:00:17.892959+00:00"
+    }
+  ]
 }
